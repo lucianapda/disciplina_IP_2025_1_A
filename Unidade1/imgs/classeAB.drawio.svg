@@ -1,0 +1,58 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="241px" height="280px" viewBox="-0.5 -0.5 241 280" content="&lt;mxfile&gt;&lt;diagram id=&quot;JIeU7NXfRN3EtlQup5S1&quot; name=&quot;Page-1&quot;&gt;7Zjfb9owEMf/GqTtYRVJIC2PJbTdA5WqMWnro5sciVcnFznm1/76nR2bEH5UtGNoD1Soyn3v7Nj38eUInSDKlw+SldkjJiA6fjdZdoJRx/d7vS7918LKCtdeLaSSJ7XUbYQJ/w216Dl1xhOorFZLClEoXrbFGIsCYtXSmJS4aIdNUSQtoWQptJahhUnMBOyE/eCJyqzqhYPG8RV4mtlb3/jXteOFxa+pxFlh79fxg3vzV7tz5uay960yluBiQwruOkEkEVV9lS8jEDq17bTdH/Cu1y2hUMcMCOoBcyZmsF5xJFhVwa1doVq5rFQLngtWkDWcYqEm1uORzQRPC7qO6b4gSZiDVJwSemsdCktS44yLZMxWONOrqxRly1nDDCX/TdMyYeckt1T2bPhhK2KiR5LcJVVCRTFPbsvelvTIlq3AMauUFWIUgpUVf1lvI2cy5cUQlcLcBu1m1CZZ7xCWG5LN8ANgDkquKMR6A1cOthoG1lxsHK3QatnmqQrtibanOV3P3BClCwt1P+DeHsBD7de7udV1BZWCHdS0M2UQSHyFCAUS01GBNXsuxJbk8AuYqoPwq5LFvEjHJmbUa5RvdstaQho7FaYkMp4kUGhwqJhiNSWNpERavclJf0gfylzUvep3+rTwiGyvsemjw6WKsKC9MLPrEdARWIA+BnvoBkfTtTT98Dia/glo9vfQ3CInuCFSk3MPL+9D2HICIKDh9F1jHH3xdlgGuyyDPdwEewHxhBVXHPX8so7d4nkGZH3/yAL8e2LhofrLS8lzLj99rstwjjTiUoUfRhoe+Uw9RRV614e75vDSNU/UNddI3XP25oxt07u59M33Vey6KP7LxukNLp3zJNDO2DrdO9Kld/5rqOdsnnsKDxJ6+bYm7TTDFAsm7hp1aN6oIbHZa2LGaApL19UvUGpl+x6bKdSdT+WuK8KSq596+FVPJ8LYz8YehM4euZZnjJUzCtpgPbTvzOdNXzPMWKuNSZ6AzimY1v52V6xwJmNofWOkNp7CFlGdqDd5ShBM8Xn7V4x30CKz+e3B+DZ+3wnu/gA=&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <clipPath id="mx-clip-84-31-152-26-0">
+            <rect x="84" y="31" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-84-65-152-26-0">
+            <rect x="84" y="65" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-221-152-26-0">
+            <rect x="4" y="221" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-255-152-26-0">
+            <rect x="4" y="255" width="152" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 80 26 L 80 0 L 240 0 L 240 26" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 80 26 L 80 86 L 240 86 L 240 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 80 26 L 240 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="159.5" y="17.5">
+                #ClasseA
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-84-31-152-26-0)" font-size="12px">
+            <text x="85.5" y="43.5">
+                + int: teste
+            </text>
+        </g>
+        <path d="M 80 56 L 240 56" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-84-65-152-26-0)" font-size="12px">
+            <text x="85.5" y="77.5">
+                + imprimir(): void
+            </text>
+        </g>
+        <path d="M 0 216 L 0 190 L 160 190 L 160 216" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 216 L 0 276 L 160 276 L 160 216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 216 L 160 216" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="79.5" y="207.5">
+                #ClasseB
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-221-152-26-0)" font-size="12px">
+            <text x="5.5" y="233.5">
+                + int: teste
+            </text>
+        </g>
+        <path d="M 0 246 L 160 246" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-255-152-26-0)" font-size="12px">
+            <text x="5.5" y="267.5">
+                + imprimir(): void
+            </text>
+        </g>
+        <path d="M 147.52 85.01 L 147.5 138 L 80 138 L 80 183.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 80 188.88 L 76.5 181.88 L 80 183.63 L 83.5 181.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+</svg>

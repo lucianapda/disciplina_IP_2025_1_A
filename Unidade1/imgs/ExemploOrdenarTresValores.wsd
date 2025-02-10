@@ -1,0 +1,60 @@
+@startuml ExemploMetodoOrdenarTresValoresA
+	start
+		 :ler(valor1)
+		 ler(valor2)
+		 ler(valor3);
+		 :valorMenor;
+		if ((valor1 <= valor2) **E** (valor1 <= valor3)) then (sim)
+ 			:valorMenor = valor1;
+ 		else (não)
+			if ((valor2 <= valor1) **E** (valor2 <= valor3)) then (sim)
+ 				:valorMenor = valor2;
+ 			else (não)
+ 				:valorMenor = valor3;
+ 			endif
+ 		endif
+	 stop
+	:escrever("menor:" + valorMenor);
+@enduml
+
+@startuml ExemploMetodoOrdenarTresValoresB
+	start
+		:ler(valor1)
+		ler(valor2)
+		ler(valor3);
+		:valorMenor
+		valorMedio
+		valorMaior;
+		if ((valor1 <= valor2) **E** (valor1 <= valor3)) then (sim)
+			:valorMenor = valor1;
+			if (valor2 <= valor3) then (sim)
+				:valorMedio = valor2
+				valorMaior = valor3;
+			else (não)
+				:valorMedio = valor3
+				valorMaior = valor2;
+			endif
+ 		else (não)
+			if ((valor2 <= valor1) **E** (valor2 <= valor3)) then (sim)
+ 				:valorMenor = valor2;
+				if (valor1 <= valor3) then (sim)
+					:valorMedio = valor1
+					valorMaior = valor3;
+				else (não)
+					:valorMedio = valor3
+					valorMaior = valor1;
+				endif
+ 			else (não)
+ 				:valorMenor = valor3;
+				if (valor1 <= valor2) then (sim)
+					:valorMedio = valor1
+					valorMaior = valor2;
+				else (não)
+					:valorMedio = valor2
+					valorMaior = valor1;
+				endif
+ 			endif
+ 		endif
+	 stop
+	:escrever("menor: "+valorMenor+" - medio: "+valorMedio+" - maior: "+valorMaior);
+@enduml
