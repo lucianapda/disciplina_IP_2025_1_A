@@ -13,8 +13,6 @@ Programadores .. analisem o problema antes. Não saiam “chutando” tudo.
 
 ![aulaRabiscos](aulaRabiscos.drawio.svg)
 
-## ![aulaAnotacoesOrganizacao](organizacaoEscopo.drawio.svg)  
-
 ## Introdução à Programação - Unidade 2  
 
 Na última aula resolvemos dois problemas iniciais utilizando Java no VSCode.  
@@ -35,10 +33,24 @@ Favor responder o [formulário](<https://forms.office.com/Pages/ResponsePage.asp
 ## Nomenclaturas  
 
 - Nome do projeto sempre iniciando com letra maiúscula  
-- Nome do arquivo (classe) sempre iniciando com letra maiúscula  
+- Nome do arquivo e da classe são sempre iguais, e sempre iniciando com letra maiúscula  
 - Nome das variáveis sempre iniciando com letra minúscula  
 
 Nomes podem conter letras, números e _. Não podem conter caracteres especiais, espaços e acentuação! Devem iniciar sempre com uma letra.  
+
+- Nome da classe  
+  - São substantivos ou expressões breves, definidos a partir do vocabulário do sistema  
+  - Utilizam o primeiro caractere em letra maiúscula para cada palavra existente no nome da classe (estilo UpperCamelCase)  
+  - Exemplos de nomes de classes:  
+    - Cliente  
+    - Estudante  
+    - Venda  
+    - ContaBancaria  
+    - SensorTemperatura  
+
+O que seria o "estilo" [CamelCase](https://pt.wikipedia.org/wiki/CamelCase#:~:text=CamelCase%20é%20a%20denominação%20em,definições%20de%20classes%20e%20objetos. "CamelCase")?
+
+## ![aulaAnotacoesOrganizacao](organizacaoEscopo.drawio.svg)  
 
 ## Sobre o que já desenvolvemos na última aula  
 

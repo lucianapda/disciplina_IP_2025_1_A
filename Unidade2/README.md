@@ -6,7 +6,7 @@ Algumas anotações feitas na aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
 ## Construção de Algoritmos - parte 1
 
-### [Videoaula_2_1 (16:19)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EcqChonL0DxBoWxnvIvZMQoBx0cni8x30yy_BVIb1pifNQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=rBktbv> "link alternativo da primeira videoaula da unidade 2")  
+### [Videoaula_2_1 (16:19)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/EcqChonL0DxBoWxnvIvZMQoBx0cni8x30yy_BVIb1pifNQ?e=BKL3jQ> "link alternativo da primeira videoaula da unidade 2")  
 
 ### Solução de Problemas
 
@@ -73,7 +73,7 @@ Algumas anotações feitas na aula: [aulaAnotacoes.md](./aulaAnotacoes.md "aulaA
 
 ## Construção de Algoritmos - parte 2
 
-### [Videoaula_2_2 (22:58)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/ERkWTfbYvjlHtTtnsLWq7TQB4P3QnUVstTHFv1cmu6iaZw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Gv5AIy> "link alternativo da segunda videoaula da unidade 2")  
+### [Videoaula_2_2 (22:58)](<https://furb-my.sharepoint.com/:v:/g/personal/dalton_furb_br/ERkWTfbYvjlHtTtnsLWq7TQB4P3QnUVstTHFv1cmu6iaZw?e=YYfETV> "link alternativo da segunda videoaula da unidade 2")  
 
 ### Descrever a Solução do Problema​ - parte 2
 
