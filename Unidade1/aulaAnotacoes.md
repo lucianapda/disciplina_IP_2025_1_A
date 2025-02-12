@@ -5,7 +5,7 @@
 -->
 [Plano de Ensino]: <https://ava3.furb.br/course/view.php?id=36814&section=1> "Plano de Ensino"  
 [Apresentação do Professor]: <https://github.com/dalton-reis/dalton-reis> "Apresentação do Professor"  
-[Monitoria]: <https://www.icloud.com/numbers/0aeNaFj7VQw9P50bGzNoiuR_g#Monitores_2024_2> "Monitoria"  
+[Monitoria]: <https://www.icloud.com/numbers/0d1vcb8BP5o91bzCLfwnVv80w#Monitores_2025_1> "Monitoria"  
 
 # Algumas anotações das aulas
 
@@ -63,6 +63,14 @@ Ler com **muita ATENÇÃO**, e em caso de dúvida me questionem.
 
 - muitas palavras novas que serão explicadas mais para frente
 - vai parecer algo muito abstrato
+
+### Pensamento Computacional
+
+De uma forma geral a resolução de problemas computacionais se apoiam nesses *pilares*:
+
+![alt text](imgs/PensamentoComputacional_pilares.png)
+
+Se utilizam desses *pilares* para desenvolver o *algoritmo*, que pode ser **facilmente** traduzido para uma linguagem de programação. Pois quando se tem o *algoritmo*, já se tem toda lógica definida.  
 
 ### Algoritmos
 
