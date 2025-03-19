@@ -1,0 +1,45 @@
+import java.util.Scanner;
+
+public class ExemploCondicao {
+
+    public static void main(String[] args) {
+        Scanner leitor = new Scanner(System.in);
+
+        int n = leitor.nextInt();
+
+        if (n < 5) {
+            System.out.println("Menor que 5");
+        } else if (n < 10) {
+            System.out.println("Meor que 10");
+        } else { //if (n >= 10) 
+            System.out.println("Numero grande");
+        }
+        System.out.println("FIM");
+
+
+        String palavra = leitor.next();
+        String maiusculo = palavra.toUpperCase();
+        String minusculo = palavra.toLowerCase();
+        System.out.println(maiusculo);
+        System.out.println(minusculo);
+
+        char letra = maiusculo.charAt(0);
+        System.out.println(letra);
+
+        //char l = leitor.next().toUpperCase().charAt(0);
+
+        if (letra == 'A') {
+            System.out.println("Vogal");
+        }
+
+        if (palavra.equals("Abelha")) {
+            System.out.println("São iguais");
+        }
+
+        if (palavra.equalsIgnoreCase("Abelha")) {
+            System.out.println("São iguais");
+        }
+
+        leitor.close();
+    }
+}
