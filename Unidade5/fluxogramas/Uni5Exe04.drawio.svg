@@ -1,0 +1,764 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1091px" height="330px" viewBox="-0.5 -0.5 1091 330" content="&lt;mxfile&gt;&lt;diagram id=&quot;rD3gvKyFuN2um6Wiiy7L&quot; name=&quot;Page-2&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 700 270 Q 700 310 760 310 Q 820 310 820 276.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 820 271.12 L 823.5 278.12 L 820 276.37 L 816.5 278.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 311px; margin-left: 761px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(255 , 128 , 0) ; font-size: 30px">
+                                    2
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="761" y="314" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <rect x="660" y="190" width="80" height="80" fill="none" stroke="#000000" pointer-events="all"/>
+        <rect x="780" y="190" width="80" height="80" fill="none" stroke="#000000" pointer-events="all"/>
+        <path d="M 580 270 Q 580 310 640 310 Q 700 310 700 276.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 700 271.12 L 703.5 278.12 L 700 276.37 L 696.5 278.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 311px; margin-left: 640px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(255 , 128 , 0) ; font-size: 30px">
+                                    2
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="640" y="314" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <rect x="540" y="190" width="80" height="80" fill="none" stroke="#000000" pointer-events="all"/>
+        <path d="M 460 270 Q 460 310 520 310 Q 580 310 580 276.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 580 271.12 L 583.5 278.12 L 580 276.37 L 576.5 278.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 311px; margin-left: 520px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(255 , 128 , 0) ; font-size: 30px">
+                                    2
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="520" y="314" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <rect x="420" y="190" width="80" height="80" fill="none" stroke="#000000" pointer-events="all"/>
+        <path d="M 340 270 Q 340 310 400 310 Q 460 310 460 276.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 460 271.12 L 463.5 278.12 L 460 276.37 L 456.5 278.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 311px; margin-left: 401px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(255 , 128 , 0) ; font-size: 30px">
+                                    2
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="401" y="314" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <rect x="300" y="190" width="80" height="80" fill="none" stroke="#000000" pointer-events="all"/>
+        <path d="M 280 70 Q 280 30 340 30 Q 400 30 400 63.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 400 68.88 L 396.5 61.88 L 400 63.63 L 403.5 61.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 31px; margin-left: 341px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(103 , 171 , 159) ; font-size: 30px">
+                                    2
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="341" y="34" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <path d="M 280 190 Q 280 230 340 230 Q 400 230 400 196.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 400 191.12 L 403.5 198.12 L 400 196.37 L 396.5 198.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 231px; margin-left: 340px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #67AB9F; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(234 , 107 , 102) ; background-color: rgb(248 , 249 , 250)">
+                                    4
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="340" y="240" fill="#67AB9F" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    4
+                </text>
+            </switch>
+        </g>
+        <rect x="240" y="70" width="80" height="120" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 130px; margin-left: 241px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-917">
+                                        <span class="MJXp-mfrac" id="MJXp-Span-918" style="vertical-align: 0.25em;">
+                                            <span class="MJXp-box">
+                                                <span class="MJXp-mn" id="MJXp-Span-919">
+                                                    3
+                                                </span>
+                                            </span>
+                                            <span class="MJXp-box" style="margin-top: -0.9em;">
+                                                <span class="MJXp-denom">
+                                                    <span>
+                                                        <span class="MJXp-rule" style="height: 1em; border-top: none; border-bottom: 1px solid; margin: 0.1em 0px;"></span>
+                                                    </span>
+                                                    <span>
+                                                        <span class="MJXp-box">
+                                                            <span class="MJXp-mn" id="MJXp-Span-920">
+                                                                2
+                                                            </span>
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-264">
+                                    \frac{3}{2}
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="280" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    32\fra...
+                </text>
+            </switch>
+        </g>
+        <rect x="440" y="70" width="40" height="120" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 130px; margin-left: 441px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-921">
+                                        <span class="MJXp-mo" id="MJXp-Span-922" style="margin-left: 0.267em; margin-right: 0.267em;">
+                                            +
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-265">
+                                    +
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="460" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    ++
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 70 Q 520 30 580 30 Q 640 30 640 63.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 640 68.88 L 636.5 61.88 L 640 63.63 L 643.5 61.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 31px; margin-left: 582px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(103 , 171 , 159) ; font-size: 30px">
+                                    2
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="582" y="34" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <path d="M 520 190 Q 520 230 580 230 Q 640 230 640 196.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 640 191.12 L 643.5 198.12 L 640 196.37 L 636.5 198.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 231px; margin-left: 582px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(234 , 107 , 102) ; font-size: 30px ; background-color: rgb(248 , 249 , 250)">
+                                    8
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="582" y="234" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    8
+                </text>
+            </switch>
+        </g>
+        <rect x="480" y="70" width="80" height="120" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 130px; margin-left: 481px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-923">
+                                        <span class="MJXp-mfrac" id="MJXp-Span-924" style="vertical-align: 0.25em;">
+                                            <span class="MJXp-box">
+                                                <span class="MJXp-mn" id="MJXp-Span-925">
+                                                    7
+                                                </span>
+                                            </span>
+                                            <span class="MJXp-box" style="margin-top: -0.9em;">
+                                                <span class="MJXp-denom">
+                                                    <span>
+                                                        <span class="MJXp-rule" style="height: 1em; border-top: none; border-bottom: 1px solid; margin: 0.1em 0px;"></span>
+                                                    </span>
+                                                    <span>
+                                                        <span class="MJXp-box">
+                                                            <span class="MJXp-mn" id="MJXp-Span-926">
+                                                                12
+                                                            </span>
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-266">
+                                    \frac{7}{12}
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="520" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    712\fr...
+                </text>
+            </switch>
+        </g>
+        <path d="M 640 70 Q 640 30 700 30 Q 760 30 760 63.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 760 68.88 L 756.5 61.88 L 760 63.63 L 763.5 61.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 31px; margin-left: 701px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(103 , 171 , 159) ; font-size: 30px">
+                                    2
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="701" y="34" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <path d="M 640 190 Q 640 230 700 230 Q 760 230 760 196.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 760 191.12 L 763.5 198.12 L 760 196.37 L 756.5 198.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 231px; margin-left: 702px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(234 , 107 , 102) ; font-size: 30px ; background-color: rgb(248 , 249 , 250)">
+                                    10
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="702" y="234" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    10
+                </text>
+            </switch>
+        </g>
+        <rect x="600" y="70" width="80" height="120" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 130px; margin-left: 601px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-927">
+                                        <span class="MJXp-mfrac" id="MJXp-Span-928" style="vertical-align: 0.25em;">
+                                            <span class="MJXp-box">
+                                                <span class="MJXp-mn" id="MJXp-Span-929">
+                                                    9
+                                                </span>
+                                            </span>
+                                            <span class="MJXp-box" style="margin-top: -0.9em;">
+                                                <span class="MJXp-denom">
+                                                    <span>
+                                                        <span class="MJXp-rule" style="height: 1em; border-top: none; border-bottom: 1px solid; margin: 0.1em 0px;"></span>
+                                                    </span>
+                                                    <span>
+                                                        <span class="MJXp-box">
+                                                            <span class="MJXp-mn" id="MJXp-Span-930">
+                                                                20
+                                                            </span>
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-267">
+                                    \frac{9}{20}
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="640" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    920\fr...
+                </text>
+            </switch>
+        </g>
+        <path d="M 760 70 Q 760 30 820 30 Q 880 30 880 63.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 880 68.88 L 876.5 61.88 L 880 63.63 L 883.5 61.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 31px; margin-left: 822px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(103 , 171 , 159) ; font-size: 30px">
+                                    2
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="822" y="34" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <path d="M 760 190 Q 760 230 820 230 Q 880 230 880 196.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 880 191.12 L 883.5 198.12 L 880 196.37 L 876.5 198.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 231px; margin-left: 820px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(234 , 107 , 102) ; font-size: 30px ; background-color: rgb(248 , 249 , 250)">
+                                    12
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="820" y="234" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    12
+                </text>
+            </switch>
+        </g>
+        <rect x="720" y="70" width="80" height="120" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 130px; margin-left: 721px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-931">
+                                        <span class="MJXp-mfrac" id="MJXp-Span-932" style="vertical-align: 0.25em;">
+                                            <span class="MJXp-box">
+                                                <span class="MJXp-mn" id="MJXp-Span-933">
+                                                    11
+                                                </span>
+                                            </span>
+                                            <span class="MJXp-box" style="margin-top: -0.9em;">
+                                                <span class="MJXp-denom">
+                                                    <span>
+                                                        <span class="MJXp-rule" style="height: 1em; border-top: none; border-bottom: 1px solid; margin: 0.1em 0px;"></span>
+                                                    </span>
+                                                    <span>
+                                                        <span class="MJXp-box">
+                                                            <span class="MJXp-mn" id="MJXp-Span-934">
+                                                                30
+                                                            </span>
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-268">
+                                    \frac{11}{30}
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="760" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    1130\f...
+                </text>
+            </switch>
+        </g>
+        <rect x="840" y="70" width="80" height="120" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 130px; margin-left: 841px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-935">
+                                        <span class="MJXp-mo" id="MJXp-Span-936" style="margin-left: 0em; margin-right: 0em;">
+                                            ⋯
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-269">
+                                    \cdots
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="880" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    ⋯\cdots
+                </text>
+            </switch>
+        </g>
+        <rect x="160" y="71" width="75" height="119" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 73px; height: 1px; padding-top: 131px; margin-left: 161px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-937">
+                                        <span class="MJXp-mi MJXp-italic" id="MJXp-Span-938">
+                                            S
+                                        </span>
+                                        <span class="MJXp-mo" id="MJXp-Span-939" style="margin-left: 0.333em; margin-right: 0.333em;">
+                                            =
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-270">
+                                    S=
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="198" y="140" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    S=S=
+                </text>
+            </switch>
+        </g>
+        <path d="M 200 30 Q 220 30 220 65 Q 220 100 233.63 100" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 238.88 100 L 231.88 103.5 L 233.63 100 L 231.88 96.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="40" y="0" width="160" height="60" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 30px; margin-left: 41px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #67AB9F; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                numerador
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="120" y="39" fill="#67AB9F" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    numerador
+                </text>
+            </switch>
+        </g>
+        <path d="M 190 230 Q 210 230 210 195.2 Q 210 160.4 228.63 160.29" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 233.88 160.26 L 226.9 163.8 L 228.63 160.29 L 226.86 156.8 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="0" y="200" width="190" height="60" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 188px; height: 1px; padding-top: 230px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #67AB9F; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font color="#ea6b66">
+                                    denominador
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="95" y="239" fill="#67AB9F" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    denominador
+                </text>
+            </switch>
+        </g>
+        <rect x="1010" y="160" width="80" height="60" fill="none" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 190px; margin-left: 1011px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #333333; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <font color="#808080">
+                                    20x
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1050" y="199" fill="#333333" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    20x
+                </text>
+            </switch>
+        </g>
+        <path d="M 1010 190 Q 990 190 990 160 Q 990 130 926.37 130" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 921.12 130 L 928.12 126.5 L 926.37 130 L 928.12 133.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="320" y="70" width="40" height="120" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 130px; margin-left: 321px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-940">
+                                        <span class="MJXp-mo" id="MJXp-Span-941" style="margin-left: 0.267em; margin-right: 0.267em;">
+                                            +
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-271">
+                                    +
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="340" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    ++
+                </text>
+            </switch>
+        </g>
+        <path d="M 400 70 Q 400 30 460 30 Q 520 30 520 63.63" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 520 68.88 L 516.5 61.88 L 520 63.63 L 523.5 61.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 31px; margin-left: 461px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(103 , 171 , 159) ; font-size: 30px">
+                                    2
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="461" y="34" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    2
+                </text>
+            </switch>
+        </g>
+        <path d="M 400 190 Q 400 230 460 230 Q 520 230 520 196.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 520 191.12 L 523.5 198.12 L 520 196.37 L 516.5 198.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 231px; margin-left: 460px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                <span style="color: rgb(234 , 107 , 102) ; font-size: 30px ; background-color: rgb(248 , 249 , 250)">
+                                    6
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="460" y="234" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    6
+                </text>
+            </switch>
+        </g>
+        <rect x="360" y="70" width="80" height="120" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 78px; height: 1px; padding-top: 130px; margin-left: 361px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-942">
+                                        <span class="MJXp-mfrac" id="MJXp-Span-943" style="vertical-align: 0.25em;">
+                                            <span class="MJXp-box">
+                                                <span class="MJXp-mn" id="MJXp-Span-944">
+                                                    5
+                                                </span>
+                                            </span>
+                                            <span class="MJXp-box" style="margin-top: -0.9em;">
+                                                <span class="MJXp-denom">
+                                                    <span>
+                                                        <span class="MJXp-rule" style="height: 1em; border-top: none; border-bottom: 1px solid; margin: 0.1em 0px;"></span>
+                                                    </span>
+                                                    <span>
+                                                        <span class="MJXp-box">
+                                                            <span class="MJXp-mn" id="MJXp-Span-945">
+                                                                6
+                                                            </span>
+                                                        </span>
+                                                    </span>
+                                                </span>
+                                            </span>
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-272">
+                                    \frac{5}{6}
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="400" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    56\fra...
+                </text>
+            </switch>
+        </g>
+        <rect x="560" y="70" width="40" height="120" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 130px; margin-left: 561px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-946">
+                                        <span class="MJXp-mo" id="MJXp-Span-947" style="margin-left: 0.267em; margin-right: 0.267em;">
+                                            +
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-273">
+                                    +
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="580" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    ++
+                </text>
+            </switch>
+        </g>
+        <rect x="680" y="70" width="40" height="120" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 130px; margin-left: 681px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-948">
+                                        <span class="MJXp-mo" id="MJXp-Span-949" style="margin-left: 0.267em; margin-right: 0.267em;">
+                                            +
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-274">
+                                    +
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="700" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    ++
+                </text>
+            </switch>
+        </g>
+        <rect x="800" y="70" width="40" height="120" fill="#ffffff" stroke="none" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 38px; height: 1px; padding-top: 130px; margin-left: 801px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 30px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
+                                <span class="MathJax_Preview" style="color: inherit;">
+                                    <span class="MJXp-math MJXp-display" id="MJXp-Span-950">
+                                        <span class="MJXp-mo" id="MJXp-Span-951" style="margin-left: 0.267em; margin-right: 0.267em;">
+                                            +
+                                        </span>
+                                    </span>
+                                </span>
+                                <script type="math/tex; mode=display" id="MathJax-Element-275">
+                                    +
+                                </script>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="820" y="139" fill="#000000" font-family="Helvetica" font-size="30px" text-anchor="middle">
+                    ++
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
