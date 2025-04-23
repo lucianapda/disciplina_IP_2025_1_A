@@ -181,7 +181,7 @@ Um motorista acaba de voltar de um feriado prolongado. Antes de sair de viagem e
 | Parada 1: Quilometragem: 120 km Combustível: 10 litros | Parada 1: 12.0 km por litro |
 | Parada 2: Quilometragem: 150 km Combustível: 15 litros | Parada 1: 10.0 km por litro |
 | Parada 3: Quilometragem: 200 km Combustível: 20 litros | Parada 1: 10.0 km por litro |
-| - | Quilometragem média obtida por litro: 10.44 |
+| - | Quilometragem média obtida por litro: 10.66|
 
 ----------
 
