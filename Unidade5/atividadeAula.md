@@ -440,16 +440,16 @@ Implemente o problema da mochila. Tendo-se uma sequência decrescente de número
 
 ### Uni5Exe31.java
 
-Dado um número inteiro positivo, determine a quantidade de decomposições em fatores primos. A saída do programa deve ser semelhante ao exemplo abaixo:  
+Dado um número inteiro positivo, determine a sua decomposição em fatores primos. A saída do programa deve ser semelhante ao exemplo abaixo:  
 
 | número | decomposição |  
 |--------|--------------|  
-| 180    | 3            |  
-| 90     | 3            |  
-| 45     | 2            |  
-| 15     | 2            |  
-| 5      | 1            |  
-| 1      | 1             |  
+| 180    | 2            |  
+| 90     | 2            |  
+| 45     | 3            |  
+| 15     | 3            |  
+| 5      | 5            |  
+| 1      |              |  
 
 ----------
 
