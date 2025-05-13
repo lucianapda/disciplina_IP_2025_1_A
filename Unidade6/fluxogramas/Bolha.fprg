@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="dalton"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-05-27 05:32:53 "/>
+        <attribute name="created" value="ZGFsdG9uO01DLTUzNzQ7MjAyMS0wNS0yNzsiMDQ6MjI6MTUgIjsyMjMw"/>
+        <attribute name="edited" value="ZGFsdG9uO01DLTUzNzQ7MjAyMS0wNS0yNzsiMDU6MzI6NTMgIjsxOzIzNDI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="vetor" type="Integer" array="True" size="4"/>
+            <assign variable="vetor[0]" expression="10"/>
+            <assign variable="vetor[1]" expression="40"/>
+            <assign variable="vetor[2]" expression="5"/>
+            <assign variable="vetor[3]" expression="30"/>
+            <declare name="bolha" type="Integer" array="False" size=""/>
+            <output expression="&quot;Vetor[&quot; &amp; vetor[0] &amp; &quot;,&quot; &amp; vetor[1] &amp; &quot;,&quot; &amp; vetor[2] &amp; &quot;,&quot; &amp; vetor[3] &amp; &quot;]&quot;" newline="True"/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <assign variable="i" expression="0"/>
+            <while expression="i &lt; 3">
+                <output expression="&quot;teste: &quot; &amp; vetor[i] &amp; &quot; &gt; &quot; &amp; vetor[i+1]" newline="True"/>
+                <if expression="vetor[i] &gt; vetor[i+1]">
+                    <then>
+                        <assign variable="bolha" expression="vetor[i]"/>
+                        <assign variable="vetor[i]" expression="vetor[i+1]"/>
+                        <assign variable="vetor[i+1]" expression="bolha"/>
+                        <assign variable="i" expression="0"/>
+                    </then>
+                    <else>
+                        <assign variable="i" expression="i + 1"/>
+                    </else>
+                </if>
+            </while>
+            <output expression="&quot;Vetor[&quot; &amp; vetor[0] &amp; &quot;,&quot; &amp; vetor[1] &amp; &quot;,&quot; &amp; vetor[2] &amp; &quot;,&quot; &amp; vetor[3] &amp; &quot;]&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
