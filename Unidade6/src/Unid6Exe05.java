@@ -8,11 +8,12 @@ public class Unid6Exe05 {
 		String[] respostasRapaz = new String[5];
 		String respostasMoca[] = new String[5];
 
+		String r[] = respostasRapaz;
 		lerRespostas(respostasRapaz, s, "Rapaz");
 		lerRespostas(respostasMoca, s, "Moça");
-		
+
 		int indiceAfinidade = calcularIndiceAfinidade(respostasMoca, respostasRapaz);
-		
+
 		if (indiceAfinidade == 15) {
 			System.out.println("Casem");
 		} else if (indiceAfinidade >= 10 && indiceAfinidade <= 14) {
@@ -26,8 +27,7 @@ public class Unid6Exe05 {
 		} else {
 			System.out.println("Vocês se odeiam!");
 		}
-		
-		
+
 		s.close();
 	}
 
@@ -36,7 +36,9 @@ public class Unid6Exe05 {
 		for (int i = 0; i < respostasMoca.length; i++) {
 			if (respostasRapaz[i].equalsIgnoreCase(respostasMoca[i])) {
 				indiceAfinidade += 3;
-			} else if (!respostasRapaz[i].equalsIgnoreCase(respostasMoca[i])) {
+			} else if (!respostasRapaz[i].equalsIgnoreCase(respostasMoca[i])
+					&& !respostasRapaz[i].equalsIgnoreCase("IND")
+					&& !respostasMoca[i].equalsIgnoreCase("IND")) {
 				indiceAfinidade -= 2;
 			} else {
 				indiceAfinidade += 1;
@@ -44,33 +46,30 @@ public class Unid6Exe05 {
 		}
 		return indiceAfinidade;
 	}
-	
+
 	private void lerRespostas(String[] respostas, Scanner s, String titulo) {
 		String perguntas[] = { "Gosta de música sertaneja?", "Gosta de futebol?", "Gosta de seriados?",
 				"Gosta de redes sociais?", "Gosta da Oktoberfest?" };
-		
+
 		System.out.println(titulo + " - responda SIM, NÃO, IND: ");
 		for (int i = 0; i < perguntas.length; i++) {
 			do {
 				System.out.print(perguntas[i] + " ");
 				respostas[i] = s.next();
-				
-				
-				/*if (!respostas[i].equalsIgnoreCase("sim") &&
-					!respostas[i].equalsIgnoreCase("nao")&&
-					!respostas[i].equalsIgnoreCase("ind")) {
-					System.out.println("Valor incorreto, digite SIM, NÃO, IND");
-				}
-				*/
-			} while (!respostas[i].equalsIgnoreCase("sim") &&
-					!respostas[i].equalsIgnoreCase("nao")&&
-					!respostas[i].equalsIgnoreCase("ind"));
+
+				/*
+				 * if (!respostas[i].equalsIgnoreCase("sim") &&
+				 * !respostas[i].equalsIgnoreCase("nao")&&
+				 * !respostas[i].equalsIgnoreCase("ind")) {
+				 * System.out.println("Valor incorreto, digite SIM, NÃO, IND"); }
+				 */
+			} while (!respostas[i].equalsIgnoreCase("sim") && !respostas[i].equalsIgnoreCase("nao")
+					&& !respostas[i].equalsIgnoreCase("ind"));
 		}
 	}
 
 	public static void main(String[] args) {
 		new Unid6Exe05();
 	}
-	
 
 }
