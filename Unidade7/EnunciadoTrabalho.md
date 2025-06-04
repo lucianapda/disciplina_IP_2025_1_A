@@ -46,6 +46,11 @@ Digite a direção para jogar (ESQUERDA, DIREITA, ACIMA OU ABAIXO: )
 - Ao final, exiba o percurso que o jogador fez no mapa (saindo da origem até chegar no tesouro).
 - Devem existir duas classes: a classe Principal (contendo somente método main e construtor) e a classe Jogo.
 
+# Para trios:
+- Limitar o número de tentativas do jogador: no máximo 10 jogadas, se não encontrar o tesouro aparecerá a mensagem de derrota e solicitará se o jogador deseja reiniciar a partida. Caso positivo, a partida deve ser reiniciada.
+- Imprimir as bordas do tabuleiro (|) entre cada coluna e (_) entre cada linha
+- Após cada movimento, o jogo informa se o jogador está "mais perto" ou "mais longe" do tesouro com base na distância Manhattan (distância entre 2 pontos (x1, y1) e (x2, y2): |x1 - x2| + |y1 - y2|)
+
 # Entrega e avaliação:
 - Um membro da sua equipe deverá postar somente DOIS ARQUIVOS .JAVA no AVA 
 - No código .java deve conter como um comentário o nome de cada um da dupla
