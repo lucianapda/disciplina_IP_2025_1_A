@@ -49,7 +49,7 @@ Digite a direção para jogar (ESQUERDA, DIREITA, ACIMA OU ABAIXO: )
 # Entrega e avaliação:
 - Um membro da sua equipe deverá postar somente DOIS ARQUIVOS .JAVA no AVA 
 - No código .java deve conter como um comentário o nome de cada um da dupla
-- A entrega poderá ser feita até as 7h 30 do dia 23/06.
+- A entrega poderá ser feita até as 7h 30 do dia 24/06.
 - Para validar a entrega a dupla terá que apresentar o trabalho individualmente para a professora que fará algumas perguntas durante a apresentação, com o objetivo de validar o seu conhecimento em relação ao código-fonte produzido.
 - Assim que a dupla finalizar, poderá entregar o trabalho e fazer a apresentação.
  
